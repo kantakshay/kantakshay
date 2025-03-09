@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Nodejs, AWS**
 
-- 👨‍💻 All of my projects are available at [https://akshaykant5006.netlify.app/](https://akshaykant5006.netlify.app/)
 
 - 💬 Ask me about **react**
 
